@@ -99,7 +99,9 @@ static struct usb_device_id rtw_usb_id_tbl[] ={
 	{USB_DEVICE(0x2019, 0xED17)},//PCI - Edimax
 	{USB_DEVICE(0x0DF6, 0x0052)},//Sitecom - Edimax
 	{USB_DEVICE(0x7392, 0x7811)},//Edimax - Edimax
+	{USB_DEVICE(0x07B8, 0x8188)},//Abocom - Abocom
 	{USB_DEVICE(0x07B8, 0x8189)},//Abocom - Abocom
+	{USB_DEVICE(0x0846, 0x9041)},//NetGear WNA1000M
 	{USB_DEVICE(0x0EB0, 0x9071)},//NO Brand - Etop
 	{USB_DEVICE(0x06F8, 0xE033)},//Hercules - Edimax
 	{USB_DEVICE(0x103C, 0x1629)},//HP - Lite-On ,8188CUS Slim Combo
