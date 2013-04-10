@@ -1,17 +1,9 @@
-# Object files
+.tmp_versions
 *.o
-
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
+*.ko
+*.cmd
+*.mod
+*.mod.c
+*.order
+*.markers
+*.symvers
